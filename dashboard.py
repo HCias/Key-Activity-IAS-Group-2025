@@ -1,8 +1,5 @@
 import streamlit as st
 import pandas as pd
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-from gspread_dataframe import get_as_dataframe
 
 st.title("Dashboard Key Activity IAS Group 2025")
 
